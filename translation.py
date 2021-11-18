@@ -34,13 +34,4 @@ You can use /rename command after receiving file to rename it with custom thumbn
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-   ABOUT_ME ="""
-<b>My Name :</b> <a href='https://telegram.me/TN57_Url_Upload_BOT'>TN57 Url Uploader Bot</a>\n
-<b>My Update Channel :</b> <a href='https://t.me/TN57_BotZ'>TN57 BotZ</a>\n
-<b>Version :</b> <a href='https://telegram.me/TN57_Url_Upload_BOT'>0.9.2 beta</a>\n
-<b>Leech & Mirror Zone:</b> <a href='https://t.me/TN57_LEECH_AND_MIRROR_ZONE/2'>Click Here</a>\n
-<b>Server :</b> <a href='https://heroku.com'>Heroku</a>\n
-<b>Library :</b> <a href='https://github.com/pyrogram'>Pyrogram 1.4.3</a>\n
-<b>Language :</b> <a href='https://www.python.org'>Python 3.9.4</a>\n
-<b>More BotZ :</b> <a href='https://t.me/TN57_BotZ/14'>Click Here</a>\n
-<b>Support Group :</b> <a href='https://t.me/TN57_BotzSupport'>Click Here</a>\n"""
+  
