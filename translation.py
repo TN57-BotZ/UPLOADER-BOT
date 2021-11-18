@@ -37,7 +37,7 @@ You can use /rename command after receiving file to rename it with custom thumbn
    ABOUT_ME ="""
 <b>My Name :</b> <a href='https://telegram.me/TN57_Url_Upload_BOT'>TN57 Url Uploader Bot</a>\n
 <b>My Update Channel :</b> <a href='https://t.me/TN57_BotZ'>TN57 BotZ</a>\n
-<b>Version :</b> <a href='https://t.me/TN57_Renamer_Bot'>0.9.2 beta</a>\n
+<b>Version :</b> <a href='https://telegram.me/TN57_Url_Upload_BOT'>0.9.2 beta</a>\n
 <b>Leech & Mirror Zone:</b> <a href='https://t.me/TN57_LEECH_AND_MIRROR_ZONE/2'>Click Here</a>\n
 <b>Server :</b> <a href='https://heroku.com'>Heroku</a>\n
 <b>Library :</b> <a href='https://github.com/pyrogram'>Pyrogram 1.4.3</a>\n
